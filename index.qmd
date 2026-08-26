@@ -1,0 +1,72 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero}
+<div class="hero-kicker">University of Dayton Department of Mathematics</div>
+
+# Mathematics Events 2026
+
+<div class="date">Saturday, November 7, 2026</div>
+
+<div class="tagline">Explore. Connect. Discover.</div>
+
+<div class="subtagline">A day of data, careers, mathematics, and ideas.</div>
+
+<div class="button-row">
+<a class="btn-event btn-primary-event" href="events-2026.html#schedule">View the Schedule</a>
+<a class="btn-event btn-secondary-event" href="events-2026.html#registration">Registration Information</a>
+</div>
+:::
+
+## Featured Events {.section-title}
+
+::: {.event-grid}
+
+::: {.event-card}
+<div class="eyebrow">10:00 AM–12:00 PM</div>
+
+### Dayton Data Challenge
+
+**Final Presentations**
+
+Undergraduate teams present insights from a week-long real-world data challenge.
+
+[Visit the Dayton Data Challenge website](https://ying-ju.github.io/dayton-data-challenge/)
+:::
+
+::: {.event-card}
+<div class="eyebrow">1:15–2:15 PM</div>
+
+### 26th Kenneth C. Schraut Memorial Lecture
+
+**Mine Çetinkaya-Rundel**  
+Duke University
+
+*Beyond the Prompt: Programming as a Pathway to Statistical Thinking*
+
+[Lecture details](events-2026.html#schraut-lecture)
+:::
+
+
+::: {.event-card}
+<div class="eyebrow">2:30-3:00 PM</div>
+
+### Biennial Alumni Career Seminar
+
+**Careers in the Mathematical Sciences**
+
+Students connect with alumni to explore the many directions a background in mathematics can lead and to hear how mathematical training supports work across a wide range of professions.
+
+[Learn more](events-2026.html#career-seminar)
+:::
+
+
+:::
+
+## A Full Day of Mathematics {.section-title}
+
+The 2026 program brings together undergraduate data analysis, career exploration, and an invited lecture on statistical thinking in the AI era. Students may participate in individual events or spend the day engaging with the broader mathematics community.
+
+[See the complete 2026 program →](events-2026.html)

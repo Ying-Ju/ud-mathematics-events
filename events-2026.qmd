@@ -1,0 +1,122 @@
+---
+title: "2026 Events"
+---
+
+The **2026 Mathematics Events** will take place on **Saturday, November 7, 2026**. Mathematics Events 2026 brings together three signature experiences in one day: the **Dayton Data Challenge**, the **Biennial Alumni Career Seminar**, and the **Kenneth C. Schraut Memorial Lecture**.
+
+The schedule below is tentative and may be updated.
+
+## Schedule {#schedule}
+
+::: {.schedule}
+
+::: {.schedule-item}
+<div class="schedule-time">9:30 AM</div>
+
+### Dayton Data Challenge Check-In & Presentation Testing
+
+Participating teams check in and test their presentation slides before the competition begins.
+:::
+
+::: {.schedule-item}
+<div class="schedule-time">10:00 AM–12:00 PM</div>
+
+### Dayton Data Challenge Presentations
+
+Undergraduate teams present insights from their week-long real-world data challenge.
+
+[Dayton Data Challenge website](https://ying-ju.github.io/dayton-data-challenge/)
+:::
+
+::: {.schedule-item}
+<div class="schedule-time">12:00–1:00 PM</div>
+
+### Registration & Lunch
+
+Registration for the Biennial Alumni Career Seminar begins. Additional lunch details will be announced.
+:::
+
+::: {.schedule-item}
+<div class="schedule-time">1:00–1:15 PM</div>
+
+### Opening Remarks
+:::
+
+::: {.schedule-item}
+<div class="schedule-time">1:15–2:15 PM</div>
+
+### 26th Kenneth C. Schraut Memorial Lecture
+
+Mine Çetinkaya-Rundel, Duke University
+
+*Beyond the Prompt: Programming as a Pathway to Statistical Thinking*
+:::
+
+::: {.schedule-item}
+<div class="schedule-time">2:15–2:30 PM</div>
+
+### Coffee Break
+:::
+
+::: {.schedule-item}
+<div class="schedule-time">2:30–3:00 PM</div>
+
+### Biennial Alumni Career Seminar — Career Panel
+:::
+
+::: {.schedule-item}
+<div class="schedule-time">3:00 PM</div>
+
+### Dayton Data Challenge Award Announcement
+:::
+
+:::
+
+## Biennial Alumni Career Seminar {#career-seminar}
+
+The **Biennial Alumni Career Seminar** has connected University of Dayton mathematics students and alumni since 1964. Held in even-numbered years, the seminar gives students an opportunity to learn how graduates have built careers across the mathematical sciences and related fields, and to see how mathematical training translates into professional work.
+
+The 2026 seminar will include opening remarks and a **Career Panel**. Alumni panelists will share their career paths, professional experiences, and perspectives with students. Panelist information will be added as it becomes available.
+
+::: {.notice}
+**2026 format:** Career Panel. No break-out sessions are planned for this year's seminar.
+:::
+
+## 26th Kenneth C. Schraut Memorial Lecture {#schraut-lecture}
+
+::: {.lecture-layout}
+
+::: {.photo-placeholder}
+**Speaker photo**
+
+High-resolution publicity photo requested.  
+Recommended display ratio: 4:5.
+:::
+
+:::
+### Mine Çetinkaya-Rundel
+
+**Duke University**
+
+#### *Beyond the Prompt: Programming as a Pathway to Statistical Thinking*
+
+### Abstract
+
+AI tools can now generate polished visualizations, scaffold Quarto reports, and debug data pipelines in seconds. So should statistics and data science students still learn to do these things themselves? The case for teaching programming and reproducible workflows is stronger than ever. When AI can produce code freely, mastery means being able to assess whether that code is correct, recognize when an analysis quietly goes wrong, and structure work so every step can be followed and verified. More importantly, learning modern data science workflows teaches students to think with data: to ask sharper questions, understand what data can and cannot answer, and reason rigorously about uncertainty and statistical models. The code is how we practice these habits; reproducibility is a cornerstone of scientific integrity and an essential skill for working productively with AI. Drawing on experience designing introductory data science courses and curricula, this talk reframes programming instruction in the AI era as a pathway to statistical thinking rather than syntax acquisition. Through concrete examples and ideas for assignments and assessments, it considers how to reward genuine understanding when a plausible-looking answer is only a prompt away. The goal is not to keep AI out of the classroom, but to prepare graduates to critically evaluate what it produces.
+
+### About the Speaker
+
+::: {.bio-placeholder}
+Short speaker bio requested. Replace this placeholder when received.
+:::
+:::
+
+## Registration {#registration}
+
+Registration information and the registration link will be added when available.
+
+## Dayton Data Challenge
+
+The Dayton Data Challenge takes place during the week leading up to Mathematics Events 2026, with final presentations on Saturday morning and an award ceremony at the end of the day's program.
+
+[Learn more about the Dayton Data Challenge](https://ying-ju.github.io/dayton-data-challenge/)

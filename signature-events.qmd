@@ -1,0 +1,45 @@
+---
+title: "Signature Events"
+---
+
+The Department of Mathematics hosts recurring events that bring together students, alumni, faculty, and guests around mathematics, careers, research, and experiential learning.
+
+::: {.signature-list}
+
+::: {.signature-card}
+### Kenneth C. Schraut Memorial Lecture
+
+The Kenneth C. Schraut Memorial Lecture is an annual invited lecture that brings distinguished speakers to the University of Dayton to share ideas and perspectives from across the mathematical sciences.
+
+<span class="cadence">Held annually</span>
+:::
+
+::: {.signature-card}
+### Biennial Alumni Career Seminar
+
+Since 1964, the Biennial Alumni Career Seminar has connected students interested in mathematics with University of Dayton alumni. The seminar helps students explore the breadth of career paths available to those with training in the mathematical sciences and learn how alumni use mathematics in their professional lives.
+
+<span class="cadence">Held in even-numbered years</span>
+:::
+
+::: {.signature-card}
+### Undergraduate Mathematics Day
+
+Undergraduate Mathematics Day brings together students, faculty, and alumni to celebrate undergraduate mathematics. The event provides opportunities for students to share mathematical work, engage in mathematical activities, and connect with the department community.
+
+<span class="cadence">Held in odd-numbered years</span>
+:::
+
+::: {.signature-card}
+### Dayton Data Challenge
+
+The Dayton Data Challenge is a week-long undergraduate data competition in which teams work with real-world data, develop their own questions, use analytical tools of their choice, and communicate their findings.
+
+[Visit the Dayton Data Challenge website](https://ying-ju.github.io/dayton-data-challenge/)
+:::
+
+:::
+
+```{r, eval=F}
+#This page is designed as a long-term home for the Department of Mathematics' recurring events. Additional history, photographs, and links to past programs will be added over time.
+```

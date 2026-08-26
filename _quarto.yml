@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mathematics Events"
+  navbar:
+    background: "#A6192E"
+    foreground: "#FFFFFF"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: events-2026.qmd
+        text: 2026 Events
+      - href: signature-events.qmd
+        text: Signature Events
+      - href: past-events.qmd
+        text: Past Events
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

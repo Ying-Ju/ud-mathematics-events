@@ -1,0 +1,9 @@
+---
+title: "Contact"
+---
+
+Questions about **Mathematics Events 2026**?
+
+Event contact information will be added here once confirmed.
+
+For questions specifically about the Dayton Data Challenge, please visit the [Dayton Data Challenge website](https://ying-ju.github.io/dayton-data-challenge/).
