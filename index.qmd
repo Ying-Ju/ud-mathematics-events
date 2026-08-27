@@ -49,7 +49,6 @@ Duke University
 [Lecture details](events-2026.html#schraut-lecture)
 :::
 
-
 ::: {.event-card}
 <div class="eyebrow">2:30-3:00 PM</div>
 
@@ -61,8 +60,6 @@ Students connect with alumni to explore the many directions a background in math
 
 [Learn more](events-2026.html#career-seminar)
 :::
-
-
 :::
 
 ## A Full Day of Mathematics {.section-title}

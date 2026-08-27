@@ -46,14 +46,14 @@
     "href": "events-2026.html#career-seminar",
     "title": "2026 Events",
     "section": "Biennial Alumni Career Seminar",
-    "text": "Biennial Alumni Career Seminar\nThe Biennial Alumni Career Seminar has connected University of Dayton mathematics students and alumni since 1964. Held in even-numbered years, the seminar gives students an opportunity to learn how graduates have built careers across the mathematical sciences and related fields, and to see how mathematical training translates into professional work.\nThe 2026 seminar will include opening remarks and a Career Panel. Alumni panelists will share their career paths, professional experiences, and perspectives with students. Panelist information will be added as it becomes available.\n\n2026 format: Career Panel. No break-out sessions are planned for this year’s seminar."
+    "text": "Biennial Alumni Career Seminar\nThe Biennial Alumni Career Seminar has connected University of Dayton mathematics students and alumni since 1964. Held in even-numbered years, the seminar gives students an opportunity to learn how graduates have built careers across the mathematical sciences and related fields, and to see how mathematical training translates into professional work.\nPanelists will share their career paths, professional experiences, and perspectives with students. Panelist information will be added as it becomes available."
   },
   {
     "objectID": "events-2026.html#schraut-lecture",
     "href": "events-2026.html#schraut-lecture",
     "title": "2026 Events",
     "section": "26th Kenneth C. Schraut Memorial Lecture",
-    "text": "26th Kenneth C. Schraut Memorial Lecture\n\n\nSpeaker photo\nHigh-resolution publicity photo requested.\nRecommended display ratio: 4:5.\n\n\n\nMine Çetinkaya-Rundel\nDuke University\n\nBeyond the Prompt: Programming as a Pathway to Statistical Thinking\n\n\n\nAbstract\nAI tools can now generate polished visualizations, scaffold Quarto reports, and debug data pipelines in seconds. So should statistics and data science students still learn to do these things themselves? The case for teaching programming and reproducible workflows is stronger than ever. When AI can produce code freely, mastery means being able to assess whether that code is correct, recognize when an analysis quietly goes wrong, and structure work so every step can be followed and verified. More importantly, learning modern data science workflows teaches students to think with data: to ask sharper questions, understand what data can and cannot answer, and reason rigorously about uncertainty and statistical models. The code is how we practice these habits; reproducibility is a cornerstone of scientific integrity and an essential skill for working productively with AI. Drawing on experience designing introductory data science courses and curricula, this talk reframes programming instruction in the AI era as a pathway to statistical thinking rather than syntax acquisition. Through concrete examples and ideas for assignments and assessments, it considers how to reward genuine understanding when a plausible-looking answer is only a prompt away. The goal is not to keep AI out of the classroom, but to prepare graduates to critically evaluate what it produces.\n\n\nAbout the Speaker\n\nShort speaker bio requested. Replace this placeholder when received.\n\n:::"
+    "text": "26th Kenneth C. Schraut Memorial Lecture\n\n\nSpeaker photo\n\n\nMine Çetinkaya-Rundel\nDuke University\n\nBeyond the Prompt: Programming as a Pathway to Statistical Thinking\n\n\n\nAbstract\nAI tools can now generate polished visualizations, scaffold Quarto reports, and debug data pipelines in seconds. So should statistics and data science students still learn to do these things themselves? The case for teaching programming and reproducible workflows is stronger than ever. When AI can produce code freely, mastery means being able to assess whether that code is correct, recognize when an analysis quietly goes wrong, and structure work so every step can be followed and verified. More importantly, learning modern data science workflows teaches students to think with data: to ask sharper questions, understand what data can and cannot answer, and reason rigorously about uncertainty and statistical models. The code is how we practice these habits; reproducibility is a cornerstone of scientific integrity and an essential skill for working productively with AI. Drawing on experience designing introductory data science courses and curricula, this talk reframes programming instruction in the AI era as a pathway to statistical thinking rather than syntax acquisition. Through concrete examples and ideas for assignments and assessments, it considers how to reward genuine understanding when a plausible-looking answer is only a prompt away. The goal is not to keep AI out of the classroom, but to prepare graduates to critically evaluate what it produces.\n\n\nAbout the Speaker\n\nShort speaker bio requested.\n\n\n\nRegistration\nRegistration information and the registration link will be added when available.\n\n\nDayton Data Challenge\nThe Dayton Data Challenge takes place during the week leading up to Mathematics Events 2026, with final presentations on Saturday morning and an award ceremony at the end of the day’s program.\nLearn more about the Dayton Data Challenge"
   },
   {
     "objectID": "events-2026.html#registration",
@@ -63,8 +63,8 @@
     "text": "Registration\nRegistration information and the registration link will be added when available."
   },
   {
-    "objectID": "events-2026.html#dayton-data-challenge-1",
-    "href": "events-2026.html#dayton-data-challenge-1",
+    "objectID": "events-2026.html#dayton-data-challenge",
+    "href": "events-2026.html#dayton-data-challenge",
     "title": "2026 Events",
     "section": "Dayton Data Challenge",
     "text": "Dayton Data Challenge\nThe Dayton Data Challenge takes place during the week leading up to Mathematics Events 2026, with final presentations on Saturday morning and an award ceremony at the end of the day’s program.\nLearn more about the Dayton Data Challenge"
@@ -82,19 +82,5 @@
     "title": "Past Events",
     "section": "",
     "text": "This page will serve as an archive of past Department of Mathematics events.\nFuture entries may include:\n\nKenneth C. Schraut Memorial Lectures\nBiennial Alumni Career Seminars\nUndergraduate Mathematics Days\nDayton Data Challenges }"
-  },
-  {
-    "objectID": "past-events.html#planned-archive",
-    "href": "past-events.html#planned-archive",
-    "title": "Past Events",
-    "section": "Planned Archive",
-    "text": "Planned Archive\nFuture entries may include:\n\nKenneth C. Schraut Memorial Lectures\nBiennial Alumni Career Seminars\nUndergraduate Mathematics Days\nDayton Data Challenges\n\n\nPast-event content, speaker information, photographs, and program links can be added as the archive develops."
-  },
-  {
-    "objectID": "events-2026.html#dayton-data-challenge",
-    "href": "events-2026.html#dayton-data-challenge",
-    "title": "2026 Events",
-    "section": "Dayton Data Challenge",
-    "text": "Dayton Data Challenge\nThe Dayton Data Challenge takes place during the week leading up to Mathematics Events 2026, with final presentations on Saturday morning and an award ceremony at the end of the day’s program.\nLearn more about the Dayton Data Challenge"
   }
 ]

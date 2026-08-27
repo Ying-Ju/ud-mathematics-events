@@ -5,7 +5,7 @@ title: "Past Events"
 This page will serve as an archive of past Department of Mathematics events.
 
 
-```{r, eval=T}
+```{r, eval=F}
 Future entries may include:
 
 - Kenneth C. Schraut Memorial Lectures

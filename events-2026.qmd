@@ -76,11 +76,9 @@ Mine Çetinkaya-Rundel, Duke University
 
 The **Biennial Alumni Career Seminar** has connected University of Dayton mathematics students and alumni since 1964. Held in even-numbered years, the seminar gives students an opportunity to learn how graduates have built careers across the mathematical sciences and related fields, and to see how mathematical training translates into professional work.
 
-The 2026 seminar will include opening remarks and a **Career Panel**. Alumni panelists will share their career paths, professional experiences, and perspectives with students. Panelist information will be added as it becomes available.
+Panelists will share their career paths, professional experiences, and perspectives with students. Panelist information will be added as it becomes available.
 
-::: {.notice}
-**2026 format:** Career Panel. No break-out sessions are planned for this year's seminar.
-:::
+
 
 ## 26th Kenneth C. Schraut Memorial Lecture {#schraut-lecture}
 
@@ -88,17 +86,16 @@ The 2026 seminar will include opening remarks and a **Career Panel**. Alumni pan
 
 ::: {.photo-placeholder}
 **Speaker photo**
-
-High-resolution publicity photo requested.  
-Recommended display ratio: 4:5.
 :::
 
-:::
+
 ### Mine Çetinkaya-Rundel
 
 **Duke University**
 
+
 #### *Beyond the Prompt: Programming as a Pathway to Statistical Thinking*
+
 
 ### Abstract
 
@@ -107,9 +104,10 @@ AI tools can now generate polished visualizations, scaffold Quarto reports, and 
 ### About the Speaker
 
 ::: {.bio-placeholder}
-Short speaker bio requested. Replace this placeholder when received.
+Short speaker bio requested. 
 :::
-:::
+
+
 
 ## Registration {#registration}
 
