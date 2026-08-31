@@ -4,11 +4,3 @@ title: "Past Events"
 
 For previous events, including Undergraduate Mathematics Days, Biennial Alumni Seminars, and the Schraut Lectures, visit [ecommons](http://ecommons.udayton.edu/mth_events/){target="_blank"}.
 
-```{r, eval=F, include=F}
-Future entries may include:
-
-- Kenneth C. Schraut Memorial Lectures
-- Biennial Alumni Career Seminars
-- Undergraduate Mathematics Days
-- Dayton Data Challenges
-}

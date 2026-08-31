@@ -11,7 +11,7 @@ website:
       - href: index.qmd
         text: Home
       - href: events-2026.qmd
-        text: 2026 Events
+        text: Program
       - href: signature-events.qmd
         text: Signature Events
       - href: past-events.qmd

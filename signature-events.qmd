@@ -40,6 +40,3 @@ The Dayton Data Challenge is a week-long undergraduate data competition in which
 
 :::
 
-```{r, eval=F}
-#This page is designed as a long-term home for the Department of Mathematics' recurring events. Additional history, photographs, and links to past programs will be added over time.
-```

@@ -22,8 +22,22 @@ body {
   font-weight: 700;
 }
 
-main {
-  max-width: 1120px;
+/* Responsive page width
+   Use most of the browser window on normal screens, but stop growing
+   on very wide displays so the site remains comfortable to read. */
+#quarto-content.quarto-container {
+  display: block;
+  width: min(88vw, 1100px);
+  max-width: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main.content {
+  width: 100%;
+  max-width: none;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .hero {
@@ -45,8 +59,8 @@ main {
 }
 
 .hero h1 {
-  font-size: clamp(2.7rem, 6vw, 5rem);
-  line-height: 1;
+  font-size: clamp(2.4rem, 4.5vw, 4rem);
+  line-height: 1.08;
   margin: .55rem 0 1rem;
   color: var(--ud-red-dark);
 }

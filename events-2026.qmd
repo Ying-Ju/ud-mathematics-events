@@ -1,8 +1,8 @@
 ---
-title: "2026 Events"
+title: ""
 ---
 
-The **2026 Mathematics Events** will take place on **Saturday, November 7, 2026**. Mathematics Events 2026 brings together three signature experiences in one day: the **Dayton Data Challenge**, the **Biennial Alumni Career Seminar**, and the **Kenneth C. Schraut Memorial Lecture**.
+The **2026 Biennial Alumni Career Seminar** will take place on **Saturday, November 7, 2026**. Held in even-numbered years since 1964, the seminar connects University of Dayton mathematics students and alumni while bringing together three featured experiences in one day: the **26th Kenneth C. Schraut Memorial Lecture**, the **Dayton Data Challenge**, and the **Career Panel**.
 
 The schedule below is tentative and may be updated.
 
@@ -33,7 +33,7 @@ Undergraduate teams present insights from their week-long real-world data challe
 
 ### Registration & Lunch
 
-Registration for the Biennial Alumni Career Seminar begins. Additional lunch details will be announced.
+Check-in or onsite registration for the afternoon program begins. Additional lunch details will be announced.
 :::
 
 ::: {.schedule-item}
@@ -74,24 +74,18 @@ Mine Çetinkaya-Rundel, Duke University
 
 ## Location
 
-Mathematics Events 2026 will be held in the **Science Center**, home of the University of Dayton Department of Mathematics.
+The 2026 Biennial Alumni Career Seminar will be held in the **Science Center**, home of the University of Dayton Department of Mathematics.
 
 - **Dayton Data Challenge presentations:** TBD
-- **Registration, lunch, and refreshments:** Science Center Atrium
+- **Check-in, lunch, and refreshments:** Science Center Atrium
 - **26th Kenneth C. Schraut Memorial Lecture:** Science Center Auditorium (SC 114)
 - **Career Panel:** Science Center Auditorium (SC 114)
 
-[View the University of Dayton Campus Map](PASTE-CAMPUS-MAP-URL-HERE){target="_blank"}
+[View the University of Dayton Campus Map](https://udayton.edu/map/index.php){target="_blank"}
 
-## Biennial Alumni Career Seminar {#career-seminar}
+## Featured Events
 
-The **Biennial Alumni Career Seminar** has connected University of Dayton mathematics students and alumni since 1964. Held in even-numbered years, the seminar gives students an opportunity to learn how graduates have built careers across the mathematical sciences and related fields, and to see how mathematical training translates into professional work.
-
-Panelists will share their career paths, professional experiences, and perspectives with students. Panelist information will be added as it becomes available.
-
-
-
-## 26th Kenneth C. Schraut Memorial Lecture {#schraut-lecture}
+### 26th Kenneth C. Schraut Memorial Lecture {#schraut-lecture}
 
 ::: {.lecture-layout}
 
@@ -112,43 +106,50 @@ Recommended display ratio: 4:5.
 
 :::
 
-### Abstract
+#### Abstract
 
 AI tools can now generate polished visualizations, scaffold Quarto reports, and debug data pipelines in seconds. So should statistics and data science students still learn to do these things themselves? The case for teaching programming and reproducible workflows is stronger than ever. When AI can produce code freely, mastery means being able to assess whether that code is correct, recognize when an analysis quietly goes wrong, and structure work so every step can be followed and verified. More importantly, learning modern data science workflows teaches students to think with data: to ask sharper questions, understand what data can and cannot answer, and reason rigorously about uncertainty and statistical models. The code is how we practice these habits; reproducibility is a cornerstone of scientific integrity and an essential skill for working productively with AI. Drawing on experience designing introductory data science courses and curricula, this talk reframes programming instruction in the AI era as a pathway to statistical thinking rather than syntax acquisition. Through concrete examples and ideas for assignments and assessments, it considers how to reward genuine understanding when a plausible-looking answer is only a prompt away. The goal is not to keep AI out of the classroom, but to prepare graduates to critically evaluate what it produces.
 
-### About the Speaker
+#### About the Speaker
 
 ::: {.bio-placeholder}
 Short speaker bio requested.
 :::
 
+### Dayton Data Challenge {#dayton-data-challenge}
+
+The **Dayton Data Challenge** is a week-long undergraduate data competition in which teams work with real-world data, develop their own questions, and communicate their findings. The competition culminates with final presentations on Saturday morning, followed by the announcement of award-winning teams at the end of the seminar program.
+
+Students registered for the Dayton Data Challenge are automatically included in the full-day Biennial Alumni Career Seminar program.
+
+[Learn more about the Dayton Data Challenge](https://ying-ju.github.io/dayton-data-challenge/){target="_blank"}
+
+### Career Panel {#career-panel}
+
+The **Career Panel** gives students an opportunity to connect with University of Dayton alumni and hear first-hand about career paths, professional experiences, and opportunities across the mathematical sciences and related fields.
+
+Panelist information will be added as it becomes available.
 
 ## Registration {#registration}
 
-Participation in **Mathematics Events 2026 is free**.
+Participation in the **2026 Biennial Alumni Career Seminar is free**.
 
 **Registration deadline: Friday, October 30, 2026**
 
-[Register for Mathematics Events 2026](https://forms.gle/84r1jmpAGwhfWjkZ6){target="_blank"}
+[Register for the 2026 Biennial Alumni Career Seminar](https://forms.gle/84r1jmpAGwhfWjkZ6){target="_blank"}
 
 ::: {.notice}
 **Already registered for the Dayton Data Challenge?**  
-Students who are registered for the Dayton Data Challenge are automatically included in the full-day Mathematics Events 2026 program and **do not need to register again**.
+Students who are registered for the Dayton Data Challenge are automatically included in the full-day Biennial Alumni Career Seminar program and **do not need to register again**.
 :::
-
-
-## Dayton Data Challenge
-
-The Dayton Data Challenge takes place during the week leading up to Mathematics Events 2026, with final presentations on Saturday morning and an award ceremony at the end of the day's program.
-
-[Learn more about the Dayton Data Challenge](https://ying-ju.github.io/dayton-data-challenge/)
-
 
 ## Support
 
-Mathematics Events 2026 is made possible with support from:
+The 2026 Biennial Alumni Career Seminar is made possible with support from:
 
 - **Department of Mathematics**
 - **College of Arts and Sciences, University of Dayton**
 - **The Leonard A. Mann, S.M., Chair in the Sciences at UD**
 - **UD Mathematics alumni**, including contributors to the endowed Kenneth C. Schraut Memorial Fund
+
+We gratefully acknowledge **Jo Sipes** for her generous support of the 2026 Biennial Alumni Career Seminar.
