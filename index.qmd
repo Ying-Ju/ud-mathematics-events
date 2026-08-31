@@ -16,7 +16,7 @@ page-layout: full
 
 <div class="button-row">
 <a class="btn-event btn-primary-event" href="events-2026.html#schedule">View the Schedule</a>
-<a class="btn-event btn-secondary-event" href="events-2026.html#registration">Registration Information</a>
+<a class="btn-event btn-secondary-event" href="events-2026.html#registration">Register</a>
 </div>
 :::
 

@@ -2,8 +2,32 @@
 title: "Contact"
 ---
 
-Questions about **Mathematics Events 2026**?
+Questions about **Mathematics Events 2026**? Please contact our organizing committee.
 
-Event contact information will be added here once confirmed.
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+### Atif Abueida, Ph.D.
+
+[✉ aabueida1@udayton.edu](mailto:aabueida1@udayton.edu)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Ying-Ju Tessa Chen, Ph.D.
+
+[✉ ychen4@udayton.edu](mailto:ychen4@udayton.edu)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Muhammad Usman, Ph.D.
+
+[✉ musman1@udayton.edu](mailto:musman1@udayton.edu)
+:::
+
+:::
+
+---
+
+### Dayton Data Challenge
 
 For questions specifically about the Dayton Data Challenge, please visit the [Dayton Data Challenge website](https://ying-ju.github.io/dayton-data-challenge/).

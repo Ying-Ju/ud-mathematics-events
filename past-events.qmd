@@ -2,10 +2,9 @@
 title: "Past Events"
 ---
 
-This page will serve as an archive of past Department of Mathematics events.
+For previous events, including Undergraduate Mathematics Days, Biennial Alumni Seminars, and the Schraut Lectures, visit [ecommons](http://ecommons.udayton.edu/mth_events/){target="_blank"}.
 
-
-```{r, eval=F}
+```{r, eval=F, include=F}
 Future entries may include:
 
 - Kenneth C. Schraut Memorial Lectures

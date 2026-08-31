@@ -61,7 +61,7 @@ Mine Çetinkaya-Rundel, Duke University
 ::: {.schedule-item}
 <div class="schedule-time">2:30–3:00 PM</div>
 
-### Biennial Alumni Career Seminar — Career Panel
+### Career Panel
 :::
 
 ::: {.schedule-item}
@@ -71,6 +71,17 @@ Mine Çetinkaya-Rundel, Duke University
 :::
 
 :::
+
+## Location
+
+Mathematics Events 2026 will be held in the **Science Center**, home of the University of Dayton Department of Mathematics.
+
+- **Dayton Data Challenge presentations:** TBD
+- **Registration, lunch, and refreshments:** Science Center Atrium
+- **26th Kenneth C. Schraut Memorial Lecture:** Science Center Auditorium (SC 114)
+- **Career Panel:** Science Center Auditorium (SC 114)
+
+[View the University of Dayton Campus Map](PASTE-CAMPUS-MAP-URL-HERE){target="_blank"}
 
 ## Biennial Alumni Career Seminar {#career-seminar}
 
@@ -86,16 +97,20 @@ Panelists will share their career paths, professional experiences, and perspecti
 
 ::: {.photo-placeholder}
 **Speaker photo**
+
+High-resolution publicity photo requested.  
+Recommended display ratio: 4:5.
 :::
 
-
+::: {.lecture-intro}
 ### Mine Çetinkaya-Rundel
 
 **Duke University**
 
-
 #### *Beyond the Prompt: Programming as a Pathway to Statistical Thinking*
+:::
 
+:::
 
 ### Abstract
 
@@ -104,17 +119,36 @@ AI tools can now generate polished visualizations, scaffold Quarto reports, and 
 ### About the Speaker
 
 ::: {.bio-placeholder}
-Short speaker bio requested. 
+Short speaker bio requested.
 :::
-
 
 
 ## Registration {#registration}
 
-Registration information and the registration link will be added when available.
+Participation in **Mathematics Events 2026 is free**.
+
+**Registration deadline: Friday, October 30, 2026**
+
+[Register for Mathematics Events 2026](https://forms.gle/84r1jmpAGwhfWjkZ6){target="_blank"}
+
+::: {.notice}
+**Already registered for the Dayton Data Challenge?**  
+Students who are registered for the Dayton Data Challenge are automatically included in the full-day Mathematics Events 2026 program and **do not need to register again**.
+:::
+
 
 ## Dayton Data Challenge
 
 The Dayton Data Challenge takes place during the week leading up to Mathematics Events 2026, with final presentations on Saturday morning and an award ceremony at the end of the day's program.
 
 [Learn more about the Dayton Data Challenge](https://ying-ju.github.io/dayton-data-challenge/)
+
+
+## Support
+
+Mathematics Events 2026 is made possible with support from:
+
+- **Department of Mathematics**
+- **College of Arts and Sciences, University of Dayton**
+- **The Leonard A. Mann, S.M., Chair in the Sciences at UD**
+- **UD Mathematics alumni**, including contributors to the endowed Kenneth C. Schraut Memorial Fund
