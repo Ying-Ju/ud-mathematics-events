@@ -90,10 +90,6 @@ The 2026 Biennial Alumni Career Seminar will be held in the **Science Center**, 
 ::: {.lecture-layout}
 
 ::: {.photo-placeholder}
-**Speaker photo**
-
-High-resolution publicity photo requested.  
-Recommended display ratio: 4:5.
 :::
 
 ::: {.lecture-intro}
@@ -124,7 +120,7 @@ Students registered for the Dayton Data Challenge are automatically included in 
 
 [Learn more about the Dayton Data Challenge](https://ying-ju.github.io/dayton-data-challenge/){target="_blank"}
 
-### Career Panel {#career-panel}
+### Career Panel {#career-panel-info}
 
 The **Career Panel** gives students an opportunity to connect with University of Dayton alumni and hear first-hand about career paths, professional experiences, and opportunities across the mathematical sciences and related fields.
 
