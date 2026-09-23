@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Biennial Alumni Career Seminar",
-    "section": "",
-    "text": "University of Dayton Department of Mathematics\n\n\n\n\nSaturday, November 7, 2026\n\n\nExplore. Connect. Discover.\n\n\nA day of data, careers, mathematics, and ideas.\n\n\nView the Schedule Register"
-  },
-  {
-    "objectID": "index.html#featured-events",
-    "href": "index.html#featured-events",
-    "title": "Biennial Alumni Career Seminar",
-    "section": "Featured Events",
-    "text": "Featured Events\n\n\n\n1:15–2:15 PM\n\n\n26th Kenneth C. Schraut Memorial Lecture\nMine Çetinkaya-Rundel\nDuke University\nBeyond the Prompt: Programming as a Pathway to Statistical Thinking\nLecture details\n\n\n\n\n10:00 AM–12:00 PM\n\n\nDayton Data Challenge\nFinal Presentations\nUndergraduate teams present insights from a week-long real-world data challenge.\nVisit the Dayton Data Challenge website\n\n\n\n\n2:30-3:00 PM\n\n\nCareer Panel\nCareers in the Mathematical Sciences\nStudents connect with alumni to explore the many directions a background in mathematics can lead and to hear how mathematical training supports work across a wide range of professions.\nLearn more"
-  },
-  {
-    "objectID": "index.html#one-day.-three-experiences.",
-    "href": "index.html#one-day.-three-experiences.",
-    "title": "Biennial Alumni Career Seminar",
-    "section": "One Day. Three Experiences.",
-    "text": "One Day. Three Experiences.\nThe 2026 Biennial Alumni Career Seminar brings students together for a full day of data, career exploration, and statistical thinking—from the Dayton Data Challenge final presentations to the Schraut Memorial Lecture and Career Panel.\nSee the complete program →"
-  },
-  {
-    "objectID": "signature-events.html",
-    "href": "signature-events.html",
-    "title": "Signature Events",
-    "section": "",
-    "text": "The Department of Mathematics hosts recurring events that bring together students, alumni, faculty, and guests around mathematics, careers, research, and experiential learning.\n\n\nKenneth C. Schraut Memorial Lecture\nThe Kenneth C. Schraut Memorial Lecture is an annual invited lecture that brings distinguished speakers to the University of Dayton to share ideas and perspectives from across the mathematical sciences.\nHeld annually\n\n\nBiennial Alumni Career Seminar\nSince 1964, the Biennial Alumni Career Seminar has connected students interested in mathematics with University of Dayton alumni. The seminar helps students explore the breadth of career paths available to those with training in the mathematical sciences and learn how alumni use mathematics in their professional lives.\nHeld in even-numbered years\n\n\nUndergraduate Mathematics Day\nUndergraduate Mathematics Day brings together students, faculty, and alumni to celebrate undergraduate mathematics. The event provides opportunities for students to share mathematical work, engage in mathematical activities, and connect with the department community.\nHeld in odd-numbered years\n\n\nDayton Data Challenge\nThe Dayton Data Challenge is a week-long undergraduate data competition in which teams work with real-world data, develop their own questions, use analytical tools of their choice, and communicate their findings.\nVisit the Dayton Data Challenge website"
-  },
-  {
     "objectID": "events-2026.html",
     "href": "events-2026.html",
     "title": "Mathematics Events",
@@ -53,7 +25,7 @@
     "href": "events-2026.html#featured-events",
     "title": "Mathematics Events",
     "section": "Featured Events",
-    "text": "Featured Events\n\n26th Kenneth C. Schraut Memorial Lecture\n\n\n\n\n\nMine Çetinkaya-Rundel\nDuke University\n\nBeyond the Prompt: Programming as a Pathway to Statistical Thinking\n\n\n\n\nAbstract\nAI tools can now generate polished visualizations, scaffold Quarto reports, and debug data pipelines in seconds. So should statistics and data science students still learn to do these things themselves? The case for teaching programming and reproducible workflows is stronger than ever. When AI can produce code freely, mastery means being able to assess whether that code is correct, recognize when an analysis quietly goes wrong, and structure work so every step can be followed and verified. More importantly, learning modern data science workflows teaches students to think with data: to ask sharper questions, understand what data can and cannot answer, and reason rigorously about uncertainty and statistical models. The code is how we practice these habits; reproducibility is a cornerstone of scientific integrity and an essential skill for working productively with AI. Drawing on experience designing introductory data science courses and curricula, this talk reframes programming instruction in the AI era as a pathway to statistical thinking rather than syntax acquisition. Through concrete examples and ideas for assignments and assessments, it considers how to reward genuine understanding when a plausible-looking answer is only a prompt away. The goal is not to keep AI out of the classroom, but to prepare graduates to critically evaluate what it produces.\n\n\nAbout the Speaker\n\nShort speaker bio requested.\n\n\n\n\nDayton Data Challenge\nThe Dayton Data Challenge is a week-long undergraduate data competition in which teams work with real-world data, develop their own questions, and communicate their findings. The competition culminates with final presentations on Saturday morning, followed by the announcement of award-winning teams at the end of the seminar program.\nStudents registered for the Dayton Data Challenge are automatically included in the full-day Biennial Alumni Career Seminar program.\nLearn more about the Dayton Data Challenge\n\n\nCareer Panel\nThe Career Panel gives students an opportunity to connect with University of Dayton alumni and hear first-hand about career paths, professional experiences, and opportunities across the mathematical sciences and related fields.\nPanelist information will be added as it becomes available."
+    "text": "Featured Events\n\n26th Kenneth C. Schraut Memorial Lecture\n\n\n\n\n\nMine Çetinkaya-Rundel\nDuke University\n\nBeyond the Prompt: Programming as a Pathway to Statistical Thinking\n\n\n\n\nAbstract\nAI tools can now generate polished visualizations, scaffold Quarto reports, and debug data pipelines in seconds. So should statistics and data science students still learn to do these things themselves? The case for teaching programming and reproducible workflows is stronger than ever. When AI can produce code freely, mastery means being able to assess whether that code is correct, recognize when an analysis quietly goes wrong, and structure work so every step can be followed and verified. More importantly, learning modern data science workflows teaches students to think with data: to ask sharper questions, understand what data can and cannot answer, and reason rigorously about uncertainty and statistical models. The code is how we practice these habits; reproducibility is a cornerstone of scientific integrity and an essential skill for working productively with AI. Drawing on experience designing introductory data science courses and curricula, this talk reframes programming instruction in the AI era as a pathway to statistical thinking rather than syntax acquisition. Through concrete examples and ideas for assignments and assessments, it considers how to reward genuine understanding when a plausible-looking answer is only a prompt away. The goal is not to keep AI out of the classroom, but to prepare graduates to critically evaluate what it produces.\n\n\nAbout the Speaker\nMine Çetinkaya-Rundel is Professor of the Practice and the Associate Director of Undergraduate Studies at the Department of Statistical Science and the Director of First-Year Experience at Duke University. She is also a Developer Educator at Posit, PBC, an open-source data science software company, formerly RStudio Inc. Mine’s work focuses on innovation in statistics and data science pedagogy, with an emphasis on computing, reproducible research, student-centered learning, and open-source education. She also works on research projects that aim to assess the effectiveness of these approaches with respect to learning and retention.\nMine has co-authored four open-source statistics textbooks as part of the OpenIntro project at the introductory college and advanced high school level, is the creator and maintainer of Data Science in a Box and has been developing and teaching various massive open online courses, including the popular Statistics with R specialization on Coursera. In 2021, Mine was awarded the Robert V. Hogg Award for Excellence in Teaching Introductory Statistics.\nMine is one of the co-leads the international effort for putting on ASA DataFest, a two-day competition in which teams of undergraduate students work to reveal insights into a rich and complex data set, annually at over fifty institutions across the globe.\n\n\n\nDayton Data Challenge\nThe Dayton Data Challenge is a week-long undergraduate data competition in which teams work with real-world data, develop their own questions, and communicate their findings. The competition culminates with final presentations on Saturday morning, followed by the announcement of award-winning teams at the end of the seminar program.\nStudents registered for the Dayton Data Challenge are automatically included in the full-day Biennial Alumni Career Seminar program.\nLearn more about the Dayton Data Challenge\n\n\nCareer Panel\nThe Career Panel gives students an opportunity to connect with University of Dayton alumni and hear first-hand about career paths, professional experiences, and opportunities across the mathematical sciences and related fields.\nPanelist information will be added as it becomes available."
   },
   {
     "objectID": "events-2026.html#registration",
@@ -70,6 +42,13 @@
     "text": "Support\nThe 2026 Biennial Alumni Career Seminar is made possible with support from:\n\nDepartment of Mathematics\nCollege of Arts and Sciences, University of Dayton\nThe Leonard A. Mann, S.M., Chair in the Sciences at UD\nUD Mathematics alumni, including contributors to the endowed Kenneth C. Schraut Memorial Fund\n\nWe gratefully acknowledge Jo Sipes for her generous support of the 2026 Biennial Alumni Career Seminar."
   },
   {
+    "objectID": "signature-events.html",
+    "href": "signature-events.html",
+    "title": "Signature Events",
+    "section": "",
+    "text": "The Department of Mathematics hosts recurring events that bring together students, alumni, faculty, and guests around mathematics, careers, research, and experiential learning.\n\n\nKenneth C. Schraut Memorial Lecture\nThe Kenneth C. Schraut Memorial Lecture is an annual invited lecture that brings distinguished speakers to the University of Dayton to share ideas and perspectives from across the mathematical sciences.\nHeld annually\n\n\nBiennial Alumni Career Seminar\nSince 1964, the Biennial Alumni Career Seminar has connected students interested in mathematics with University of Dayton alumni. The seminar helps students explore the breadth of career paths available to those with training in the mathematical sciences and learn how alumni use mathematics in their professional lives.\nHeld in even-numbered years\n\n\nUndergraduate Mathematics Day\nUndergraduate Mathematics Day brings together students, faculty, and alumni to celebrate undergraduate mathematics. The event provides opportunities for students to share mathematical work, engage in mathematical activities, and connect with the department community.\nHeld in odd-numbered years\n\n\nDayton Data Challenge\nThe Dayton Data Challenge is a week-long undergraduate data competition in which teams work with real-world data, develop their own questions, use analytical tools of their choice, and communicate their findings.\nVisit the Dayton Data Challenge website"
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
@@ -82,5 +61,26 @@
     "title": "Past Events",
     "section": "",
     "text": "For previous events, including Undergraduate Mathematics Days, Biennial Alumni Seminars, and the Schraut Lectures, visit ecommons."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Biennial Alumni Career Seminar",
+    "section": "",
+    "text": "University of Dayton Department of Mathematics\n\n\n\n\nSaturday, November 7, 2026\n\n\nExplore. Connect. Discover.\n\n\nA day of data, careers, mathematics, and ideas.\n\n\nView the Schedule Register"
+  },
+  {
+    "objectID": "index.html#featured-events",
+    "href": "index.html#featured-events",
+    "title": "Biennial Alumni Career Seminar",
+    "section": "Featured Events",
+    "text": "Featured Events\n\n\n\n1:15–2:15 PM\n\n\n26th Kenneth C. Schraut Memorial Lecture\nMine Çetinkaya-Rundel\nDuke University\nBeyond the Prompt: Programming as a Pathway to Statistical Thinking\nLecture details\n\n\n\n\n10:00 AM–12:00 PM\n\n\nDayton Data Challenge\nFinal Presentations\nUndergraduate teams present insights from a week-long real-world data challenge.\nVisit the Dayton Data Challenge website\n\n\n\n\n2:30-3:00 PM\n\n\nCareer Panel\nCareers in the Mathematical Sciences\nStudents connect with alumni to explore the many directions a background in mathematics can lead and to hear how mathematical training supports work across a wide range of professions.\nLearn more"
+  },
+  {
+    "objectID": "index.html#one-day.-three-experiences.",
+    "href": "index.html#one-day.-three-experiences.",
+    "title": "Biennial Alumni Career Seminar",
+    "section": "One Day. Three Experiences.",
+    "text": "One Day. Three Experiences.\nThe 2026 Biennial Alumni Career Seminar brings students together for a full day of data, career exploration, and statistical thinking—from the Dayton Data Challenge final presentations to the Schraut Memorial Lecture and Career Panel.\nSee the complete program →"
   }
 ]
